@@ -1,7 +1,7 @@
 # live app
 https://hikoya.herokuapp.com/
 
-# desciption
+# description
 User can store their story and read stories by others.
 
 # technologies
